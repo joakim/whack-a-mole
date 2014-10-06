@@ -1,0 +1,26 @@
+{
+  "bitwise": true,
+  "camelcase": false,
+  "curly": false,
+  "eqeqeq": true,
+  "forin": true,
+  "freeze": true,
+  "immed": true,
+  "indent": 2,
+  "newcap": true,
+  "noarg": true,
+  "nonbsp": true,
+  "nonew": true,
+  "quotmark": "single",
+  "undef": true,
+  "unused": true,
+  "jquery": true,
+  "globals": {
+    "me": true,
+    "game": true,
+    "debugPanel": true,
+    "window": true,
+    "document": true,
+    "alert": true
+  }
+}
